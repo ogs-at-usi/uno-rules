@@ -1,3 +1,4 @@
+# Rules
 - +2 and +4 can be stacked indefinitely, independently of the color chosen by the +4
 - multiple cards of the same number with different colors can be played at the same time
 - if one doesn't say UNO on time and one says CONTROUNO, the current player draws 2
